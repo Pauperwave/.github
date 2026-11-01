@@ -7,7 +7,6 @@ Associazione di Promozione Sociale del Trentino-Alto Adige dedicata a *Magic: Th
 ## Associazione
 
 - <img src="https://api.iconify.design/lucide/users.svg?color=%236e7781" width="16" height="16" alt=""> [Chi siamo](https://pauperwave.org)
-- <img src="https://api.iconify.design/lucide/user-plus.svg?color=%236e7781" width="16" height="16" alt=""> [Associati ora](https://tinyurl.com/adesione-pauperwave)
 - <img src="https://api.iconify.design/lucide/id-card.svg?color=%236e7781" width="16" height="16" alt=""> [Tesseramento](https://tesseramento.pauperwave.org)
 - <img src="https://api.iconify.design/lucide/calendar.svg?color=%236e7781" width="16" height="16" alt=""> [Calendario](https://calendario.pauperwave.org)
 - <img src="https://api.iconify.design/lucide/camera.svg?color=%236e7781" width="16" height="16" alt=""> [Foto degli eventi](https://photos.pauperwave.org)
